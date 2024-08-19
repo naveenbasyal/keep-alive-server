@@ -4,6 +4,7 @@
   "description": "",
   "main": "keep-alive.js",
   "scripts": {
+    "build":"node keep-alive.js",
     "start": "nodemon keep-alive.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

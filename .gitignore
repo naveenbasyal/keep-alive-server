@@ -11,3 +11,4 @@ logs/
 
 # Nodemon
 .pids
+.vercel
